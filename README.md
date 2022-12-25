@@ -9,7 +9,7 @@ Nama saya Aldi Lesmana, Saya dari Indonesia, tinggal di Medan, Anda dapat menemu
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283838186170) 
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281361281833) 
 
-[![Header](https://telegra.ph/file/81581cb08e4821d495bdc.mp4"Header")](https://Aldi-Ganz-Offc.dev/)
+![Header](https://telegra.ph/file/81581cb08e4821d495bdc.mp4)
 ----------------
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ## &#x270d; Blog & Writing
@@ -19,7 +19,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Magic Methods You Haven&#39;t Heard About](https://martinheinz.dev/blog/87)
 - [Getting Started with Mastodon API in Python](https://martinheinz.dev/blog/86)
 - [Backup-and-Restore of Containers with Kubernetes Checkpointing API](https://martinheinz.dev/blog/85)
 - [Getting Started with Google APIs in Python](https://martinheinz.dev/blog/84)
