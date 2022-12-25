@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[!(https://telegra.ph/file/6b011cc8ce3ead5de69cf.jpg)
+![header](https://telegra.ph/file/6b011cc8ce3ead5de69cf.jpg)
 
 <h1 align="center">Hallo Saya Aldi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px"
 <p align="center">
